@@ -1,0 +1,75 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/spina-bifida---primary.py
+inputModule3:
+  class: File
+  path: python/spina-bifida-repair---primary.py
+inputModule4:
+  class: File
+  path: python/spina-bifida-closure---primary.py
+inputModule5:
+  class: File
+  path: python/spina-bifida-specified---primary.py
+inputModule6:
+  class: File
+  path: python/spina---primary.py
+inputModule7:
+  class: File
+  path: python/spina-bifida-hydrocephalus---primary.py
+inputModule8:
+  class: File
+  path: python/cervical-spina-bifida---primary.py
+inputModule9:
+  class: File
+  path: python/thoracic-spina-bifida---primary.py
+inputModule10:
+  class: File
+  path: python/spina-bifida-lumbar---primary.py
+inputModule11:
+  class: File
+  path: python/spina-bifida-closed---primary.py
+inputModule12:
+  class: File
+  path: python/spina-bifida-spine---primary.py
+inputModule13:
+  class: File
+  path: python/spina-bifida-myelocele---primary.py
+inputModule14:
+  class: File
+  path: python/spina-bifida-rachischisis---primary.py
+inputModule15:
+  class: File
+  path: python/sacral-spina-bifida---primary.py
+inputModule16:
+  class: File
+  path: python/spina-bifida-mention---primary.py
+inputModule17:
+  class: File
+  path: python/spina-bifida-meningocele---primary.py
+inputModule18:
+  class: File
+  path: python/spina-bifida-meningomyelocele---primary.py
+inputModule19:
+  class: File
+  path: python/spina-bifida-myelocystocele---primary.py
+inputModule20:
+  class: File
+  path: python/spina-bifida-procedure---primary.py
+inputModule21:
+  class: File
+  path: python/spina-bifida---secondary.py
+inputModule22:
+  class: File
+  path: python/spina-bifida-repair---secondary.py
+inputModule23:
+  class: File
+  path: python/spina-bifida-tether---secondary.py
+inputModule24:
+  class: File
+  path: python/spina-bifida-closure---secondary.py
+inputModule25:
+  class: File
+  path: python/output-cases.py
